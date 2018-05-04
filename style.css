@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(to left, #99ffcc 0%, #ffccff 100%);
+}
+
+ img {
+    float: left;
+    width: 25%;
+    height: 25%;
+    
+  }
+  
+ 

@@ -62,28 +62,7 @@ p {
 
 
 
-progress {
-    width: 70%;
-    height: 20px;
-    color: #3fb6b2;
-    background: #efefef;
-}
-progress::-webkit-progress-bar {
-    background: #efefef;
-}
-progress::-webkit-progress-value {
-    background: #3fb6b2;
-} 
-progress::-moz-progress-bar {
-    color: #3fb6b2;
-    background: #efefef;
-}
 
-hr {
-    border: 0;
-    height: 1px;
-    background: #f36f48;
-}
 form {
     text-align: center;
     margin-top: 0;

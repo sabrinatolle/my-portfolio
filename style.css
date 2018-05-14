@@ -35,17 +35,17 @@ p {
     margin-bottom: 10px;
     border-radius: 10px;
 }
-#header {
+header {
     background-image: url("banner.jpg");
     background-size: cover;
 }
-#header img {
+header img {
     display: block;
     width: 100px;
     height: 100px;
     margin: auto;
 }
-#header p {
+header p {
     font-size: 25pt;
     color: #e4ecf0;
     padding-top: 5px;

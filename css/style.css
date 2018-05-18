@@ -64,7 +64,20 @@ header p {
     margin-top: 10px;
 }
 
-
+@media only screen and (max-width: 600px) {
+    article img {
+        display: block;
+        height: 300px;
+        width:100%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    article img{
+        display:block;
+        height:300px;
+        width:100%;
+    }
+} 
 
 
 

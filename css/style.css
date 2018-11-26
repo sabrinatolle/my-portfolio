@@ -72,7 +72,15 @@ header p {
     text-align: right;
     margin-top: 10px;
 }
+.certificateLink {
+    text-align: center;
+}
 
+
+
+.awarded {
+    text-align: center;
+}
 @media only screen and (max-width: 600px) {
     article img {
         display: block;

@@ -17,7 +17,7 @@ h3 {
     margin: 0 0 10px 0;
 }
 h3 span {
-    border: 4px solid #20bcd5;
+    border: 4px solid  #720aa1;
     padding: 10px;
     border-radius: 25px;
     
@@ -37,7 +37,7 @@ article {
     margin-bottom: 10px;
     border-radius: 10px;
     justify-content: space-evenly;
-    color: black;
+    color: rgb(198, 39, 219);
     background-color:white;
 }
 header {

@@ -36,7 +36,7 @@ article {
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
-    justify-content: space-evenly;
+    justify-content:space-around;
     color: rgb(198, 39, 219);
     background-color:white;
 }
